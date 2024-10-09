@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Opeoluwa Shodipe
 
-<!--
-**Opeoluwa-Shodipe/Opeoluwa-Shodipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Interests:**  
+- Childhood Cancer  
+- Viral Genomics  
+- Host-Pathogen Interactions  
+- Infectious Diseases  
+- Biomarker Development  
 
-Here are some ideas to get you started:
+**Currently Learning:**  
+- Advanced R Programming  
+- Advanced Linux & Bash  
+- Galaxy Bioinformatics Platform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Looking to Collaborate On:**  
+- Infectious Disease Genomics  
+- Bioinformatics and Machine Learning Applications  
+
+**Contact Me:**  
+- LinkedIn: [Opeoluwa Shodipe](https://www.linkedin.com/in/opeoluwa-shodipe-6b44aa208/)  
+- Email: [opeoluwashodipe94@gmail.com](mailto:opeoluwashodipe94@gmail.com)  
+
+**Pronouns:** He/Him  
+**Fun Fact:** I love dancing and enjoy watching mystery and detective movie genre.  

@@ -10,7 +10,7 @@
 **📚 Currently Learning:**  
 - 📊 Advanced R Programming  
 - 🖥️ Advanced Linux & Bash  
-- 🚀 Galaxy Bioinformatics Platform  
+- 🚀 Frontend Bioinformatics using R Shiny  
 
 **🤝 Looking to Collaborate On:**  
 - 🧫 Infectious Disease Genomics  
@@ -21,4 +21,5 @@
 - 📧 Email: [opeoluwashodipe94@gmail.com](mailto:opeoluwashodipe94@gmail.com)  
 
 **😄 Pronouns:** He/Him  
-**⚡ Fun Fact:** I love ⚽ soccer and enjoy 🎮 playing PlayStation games!  
+**⚡ Fun Fact:** I love 💃 dancing and watching 🎥 sci-fi, 🔍 mystery, ⚖️ law, and 🕵️ detective movie genres!  
+

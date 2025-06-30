@@ -47,17 +47,10 @@ Committed to continuous learning and collaboration, I contribute to open science
   <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Galaxy-4285F4?logo=galaxyproject&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nextflow-6B2E53?logo=nextflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bioconductor-91C1E7?logo=bioconductor&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastQC-2C5E8E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trimmomatic-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TCGAbiolinks-990000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shiny-008B8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ggplot2-1D62F0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Applications-512DA8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20and%20LLMs-2E7D32?style=for-the-badge" />
 </p>
 

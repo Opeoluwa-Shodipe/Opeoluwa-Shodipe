@@ -6,6 +6,7 @@ I’m passionate about the intersection of public health and computational techn
 
 Committed to continuous learning and collaboration, I contribute to open science and reproducible research through version-controlled codebases and documented workflows.
 
+## About Me
 
 **🌟 Interests:**  
 - 🎗️ Childhood Cancer  

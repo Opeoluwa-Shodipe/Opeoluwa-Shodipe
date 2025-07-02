@@ -8,12 +8,12 @@ Committed to continuous learning and collaboration, I contribute to open science
 
 ## About Me
 
-**🌟 Interests:**  
-- 🎗️ Childhood Cancer  
-- 🧬 Viral Genomics  
+**🌟 Interests:**    
 - 🦠 Host-Pathogen Interactions  
 - 🌍 Infectious Diseases  
-- 🧪 Biomarker Development  
+- 🧪 Biomarker Development
+- 🧬 Viral Genomics
+- 🎗️ Childhood Cancer   
 
 **📚 Currently Learning:**  
 - 📊 Advanced R Programming  
@@ -29,7 +29,7 @@ Committed to continuous learning and collaboration, I contribute to open science
 - 📧 Email: [opeoluwashodipe94@gmail.com](mailto:opeoluwashodipe94@gmail.com)  
 
 **😄 Pronouns:** He/Him  
-**⚡ Fun Fact:** I love 💃 dancing, 🛠️ troubleshooting and watching 🎥 sci-fi, 🔍 mystery and 🕵️ detective movie genres!  
+**⚡ Fun Fact:** I love 💃 dancing, 🛠️ troubleshooting and watching 🎥 sci-fi and 🕵️ detective movie genres!  
 
 ## Programming Languages and Tools
 <p align="center">

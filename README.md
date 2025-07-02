@@ -52,4 +52,12 @@ Committed to continuous learning and collaboration, I contribute to open science
   <img src="https://img.shields.io/badge/RAG%20and%20LLMs-2E7D32?style=for-the-badge" />
 </p>
 
+## Education
+Postgraduate Coursework in Advanced Environmental Biology (CBG 813), Ongoing – 2025
+
+Bachelor of Science in Microbiology, Olabisi Onabanjo University 2019
+
+Professional Trainings & Certifications:
+- Cancer Bioinformatics Internship, H3ABioNet 2024
+- Genome Sequencing Bioinformatics Africa (GSBAfrica), WCSCourses & H3ABioNet 2023
 

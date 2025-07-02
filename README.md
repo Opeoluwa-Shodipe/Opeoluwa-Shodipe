@@ -53,11 +53,6 @@ Committed to continuous learning and collaboration, I contribute to open science
 </p>
 
 ## Education
-Postgraduate Coursework in Advanced Environmental Biology (CBG 813), Ongoing – 2025
-
-Bachelor of Science in Microbiology, Olabisi Onabanjo University 2019
-
-Professional Trainings & Certifications:
-- Cancer Bioinformatics Internship, H3ABioNet 2024
-- Genome Sequencing Bioinformatics Africa (GSBAfrica), WCSCourses & H3ABioNet 2023
+- Postgraduate course in Molecular Data for Infectious, Institute of Tropical Medicine 2024
+- Bachelor of Science in Microbiology, Olabisi Onabanjo University 2019
 

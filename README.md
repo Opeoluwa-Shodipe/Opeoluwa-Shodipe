@@ -53,8 +53,13 @@ Committed to continuous learning and collaboration, I contribute to open science
 </p>
 
 ## Education
-- **Postgraduate course in Molecular Data for Infectious,** Institute of Tropical Medicine 2024
+- **Postgraduate course in Molecular Data for Infectious,** Institute of Tropical Medicine (ITM) 2024
 - **Bachelor of Science in Microbiology,** Olabisi Onabanjo University 2019
 
-## Certification
-
+## Certifications
+- Molecular Data for Infectious Disease (ITM)
+- Genome Sequencing Bioinformatics (H3BIONET)
+- Ethics and Policy Issues in CRISPR Gene Editing  
+- Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics (FUTURELEARN)
+- Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R (FUTURELEARN)  
+- Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets (FUTURELEARN)

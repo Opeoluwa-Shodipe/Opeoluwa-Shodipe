@@ -56,3 +56,5 @@ Committed to continuous learning and collaboration, I contribute to open science
 - **Postgraduate course in Molecular Data for Infectious,** Institute of Tropical Medicine 2024
 - **Bachelor of Science in Microbiology,** Olabisi Onabanjo University 2019
 
+## Certification
+

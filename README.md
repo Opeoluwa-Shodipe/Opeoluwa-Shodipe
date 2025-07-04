@@ -63,3 +63,4 @@ Committed to continuous learning and collaboration, I contribute to open science
 - Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics (FUTURELEARN)
 - Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R (FUTURELEARN)  
 - Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets (FUTURELEARN)
+- Microsoft Excel 2019 Associate

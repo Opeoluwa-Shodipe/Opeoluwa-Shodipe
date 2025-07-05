@@ -13,7 +13,7 @@ Committed to continuous learning and collaboration, I contribute to open science
 - 🌍 Infectious Diseases  
 - 🧪 Biomarker Development
 - 🧬 Viral Genomics
-- 🎗️ Childhood Cancer   
+- 🎗️ Cancer Genomics  
 
 **📚 Currently Learning:**  
 - 📊 Advanced R Programming  

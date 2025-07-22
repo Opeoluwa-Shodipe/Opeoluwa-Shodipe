@@ -26,7 +26,8 @@ I am committed to continuous learning and collaborations.
 
 **📬 Contact Me:**  
 - 🔗 LinkedIn: [Opeoluwa Shodipe](https://www.linkedin.com/in/opeoluwa-shodipe-6b44aa208/)  
-- 📧 Email: [opeoluwashodipe94@gmail.com](mailto:opeoluwashodipe94@gmail.com)  
+- 📧 Email: [opeoluwashodipe94@gmail.com](mailto:opeoluwashodipe94@gmail.com)
+- Phone: +2348111805262
 
 **😄 Pronouns:** He/Him  
 **⚡ Fun Fact:** I love 💃 dancing, 🛠️ troubleshooting and watching 🎥 sci-fi and 🕵️ detective movie genres!  

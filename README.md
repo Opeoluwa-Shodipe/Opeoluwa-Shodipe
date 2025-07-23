@@ -18,7 +18,8 @@ I am committed to continuous learning and collaborations.
 **📚 Currently Learning:**  
 - 📊 Advanced R Programming  
 - 🖥️ Advanced Linux & Bash  
-- 🚀 Frontend Bioinformatics using R Shiny  
+- 🚀 Frontend Bioinformatics using R Shiny
+- Cloud computing 
 
 **🤝 Looking to Collaborate On:**  
 - 🧫 Infectious Disease Genomics  

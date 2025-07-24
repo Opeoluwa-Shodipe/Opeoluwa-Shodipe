@@ -65,4 +65,4 @@ I am committed to continuous learning and collaborations.
 - Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics (FUTURELEARN)
 - Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R (FUTURELEARN)  
 - Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets (FUTURELEARN)
-- Microsoft Excel 2019 Associate
+- Microsoft Excel 2019 Associate (MICROSOFT)

@@ -54,7 +54,7 @@ I am committed to continuous learning and collaborations.
   <img src="https://img.shields.io/badge/RAG%20and%20LLMs-2E7D32?style=for-the-badge" />
 </p>
 
-## Education
+## Education History
 - **Postgraduate course in Molecular Data for Infectious,** Institute of Tropical Medicine (ITM) 2024
 - **Bachelor of Science in Microbiology,** Olabisi Onabanjo University 2019
 

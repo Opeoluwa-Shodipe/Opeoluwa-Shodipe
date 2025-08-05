@@ -56,7 +56,7 @@ I am committed to continuous learning and collaborations.
 
 ## Education History
 - **Postgraduate course in Molecular Data for Infectious Diseases** Institute of Tropical Medicine (ITM) 2024
-- **Bachelor of Science in Microbiology,** Olabisi Onabanjo University 2019
+- **Bachelor of Science in Microbiology** Olabisi Onabanjo University 2019
 
 ## Certifications
 - Molecular Data for Infectious Disease (ITM)

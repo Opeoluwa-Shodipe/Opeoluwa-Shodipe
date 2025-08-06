@@ -23,7 +23,7 @@ I am committed to continuous learning and collaborations.
 
 **🤝 Looking to Collaborate On:**  
 - 🧫 Infectious Disease Genomics  
-- 🤖 Bioinformatics and Machine Learning Applications  
+- 🤖 Bioinformatics, AI and Machine Learning Applications  
 
 **📬 Contact Me:**  
 - 🔗 LinkedIn: [Opeoluwa Shodipe](https://www.linkedin.com/in/opeoluwa-shodipe-6b44aa208/)  

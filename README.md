@@ -4,7 +4,7 @@ I'm a research-driven and detail-oriented research assistant with a strong found
 
 I’m passionate about contributing to the development of computational tools or approaches for resolving challenges specific to resource-limited settings, and I am actively transitioning into advanced data science and AI applications. My recent training has expanded my skill set to include statistical modeling, data wrangling, and functional enrichment analysis for cancer research. I aim to integrate AI-driven approaches into biomedical research, with a focus on Linux and R-based analytics, machine learning,and scalable pipelines for genomic data interpretation.
 
-I am committed to continuous learning and collaborations.
+I am committed to continuous learning, networking,  and collaborations.
 
 ## About Me
 

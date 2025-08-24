@@ -19,7 +19,7 @@ I am committed to continuous learning, networking, and collaborations.
 - 📊 Advanced R Programming  
 - 🖥️ Advanced Linux & Bash  
 - 🚀 Frontend Bioinformatics using R Shiny
-- ☁️ Cloud computing 
+- ☁️ Cloud Computing 
 
 **🤝 Looking to Collaborate On:**  
 - 🧫 Infectious Disease Genomics  

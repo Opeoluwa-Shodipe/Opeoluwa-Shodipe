@@ -61,7 +61,7 @@ I am committed to continuous learning, networking, and collaborations.
 ## Certifications
 - Molecular Data for Infectious Disease (ITM)
 - Genome Sequencing Bioinformatics (H3BIONET & Wellcome Connecting Science)
-- Galaxy Training Network Smorgasbord (Galaxy Training Network)
+- Galaxy Training Network Smorgasbord (GALAXY TRAINING NETWORK)
 - Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics (FUTURELEARN)
 - Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R (FUTURELEARN)  
 - Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets (FUTURELEARN)

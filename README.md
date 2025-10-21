@@ -31,7 +31,7 @@ I am committed to continuous learning, networking, and collaborations.
 - 📞 Phone: +2348111805262
 
 **😄 Pronouns:** He/Him  
-**⚡ Fun Fact:** I love 💃 dancing, 🛠️ troubleshooting and watching 🎥 sci-fi and 🕵️ detective movie genres!  
+**⚡ Fun Fact:** I love 💃 dancing, 🛠️ troubleshooting and watching 🎥 sci-fi and 🕵️ mystery movie genres!  
 
 ## Programming Languages and Tools
 <p align="center">

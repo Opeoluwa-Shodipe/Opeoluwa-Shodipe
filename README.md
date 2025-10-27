@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Opeoluwa Shodipe
+# 👋 Hi, I'm Opeoluwa
 
 I'm a research-driven and detailed-oriented research assistant with a strong foundation in microbiology, molecular biology, infectious disease genomics, and bioinformatics. My expertise spans across nucleic acid extraction, quantitative PCR, NGS, and genomic surveillance of high-burden pathogens, including HIV, HPV, Hepatitis, TB, Malaria, Arboviruses, and Monkeypox. Currently, I have a growing proficiency in computational biology and data science, I leverage tools like Bash, Linux, Python, R, Galaxy, and Bioconductor to extract actionable insights from simple to complex biological datasets.
 

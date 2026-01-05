@@ -55,6 +55,7 @@ I am committed to continuous learning, networking, and collaborations.
 </p>
 
 ## Education History
+- **Masters of Science in Cell Biology and Genetics (Molecular Biology option)** University of Lagos, Lagos - 2025 
 - **Postgraduate course in Molecular Data for Infectious Diseases** Institute of Tropical Medicine, Antwerp (ITM) - 2024
 - **Bachelor of Science in Microbiology** Olabisi Onabanjo University, Ago-iwoye - 2019
 

@@ -37,6 +37,7 @@ I am committed to continuous learning, networking, and collaborations.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />

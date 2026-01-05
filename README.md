@@ -60,6 +60,8 @@ I am committed to continuous learning, networking, and collaborations.
 - **Bachelor of Science in Microbiology** Olabisi Onabanjo University, Ago-iwoye - 2019
 
 ## Certifications
+-
+- Next Generation Sequencing: RNA Sequencing (Hackbio)
 - Frontend Bioinformatics (Hackbio)
 - Molecular Data for Infectious Disease (ITM)
 - Genome Sequencing Bioinformatics (H3BIONET & WELLCOME CONNECTING SCIENCE)

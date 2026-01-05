@@ -53,6 +53,8 @@ I am committed to continuous learning, networking, and collaborations.
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20and%20LLMs-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
 </p>
 
 ## Education History

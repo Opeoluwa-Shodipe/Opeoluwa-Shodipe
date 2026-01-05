@@ -60,7 +60,7 @@ I am committed to continuous learning, networking, and collaborations.
 - **Bachelor of Science in Microbiology** Olabisi Onabanjo University, Ago-iwoye - 2019
 
 ## Certifications
--
+- Frontend Bioinformatics (Hackbio)
 - Molecular Data for Infectious Disease (ITM)
 - Genome Sequencing Bioinformatics (H3BIONET & WELLCOME CONNECTING SCIENCE)
 - Galaxy Training Network Smorgasbord (GALAXY TRAINING NETWORK)
